@@ -11,4 +11,4 @@ while True:
     if kolikot == kahvi:
         break
 
-print:("kahvi maksettu")
+print("Kahvi maksettu")
