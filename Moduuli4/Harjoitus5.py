@@ -6,7 +6,7 @@ yritykset = 0
 while yritykset < 5:
     tunnus = input("Käyttäjätunnus: ")
     salasana = input("Salasana: ")
-    if tunnus == oikea_tunnus and oikea_salasana:
+    if tunnus == oikea_tunnus and salasana == oikea_salasana:
         print("Tervetuloa")
         break
 
