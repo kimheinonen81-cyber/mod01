@@ -8,3 +8,5 @@ tein tehtävät. Jouduin käyttämään tekoälyä avuksi koska loppu ajatus ja 
 Tein tehtävät. Viimeinen olikin todella vaikea ja jouduin turvautumaan tekoälyn apuun mutta taas että se opetti samalla.
 # Moduuli 4
 Tehtävien palautus
+# Moduuli 5
+Harjoitus tehtävien tekoa oppitunnin aikana
