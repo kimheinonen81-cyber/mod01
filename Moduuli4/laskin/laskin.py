@@ -1,8 +1,10 @@
-print("--------TERVETULOA LASKINOHJEKMAAN--------")
+print("\n--------TERVETULOA LASKINOHJEKMAAN--------")
 
 while True:
-    print("Valitse mitä toimintoa haluat käyttää: ")
-    print("A: Yhteenlasku, B: Vähennylasku, C: Kertolasku, D: Jakolasku, Q = Lopeta ohjelma")
+    print("\nValitse mitä toimintoa haluat käyttää: ")
+    print("A: Yhteenlasku\nB: Vähennylasku\nC: Kertolasku\nD: Jakolasku\nQ = Lopeta ohjelma\n")
+
+    #kysytään käyttäjältä mitä laskutoimitusta hän haluaa käyttää
     valinta = input("Anna valintasi: ").upper()
 
     if valinta == "Q":
