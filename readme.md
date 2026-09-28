@@ -7,4 +7,4 @@ tein tehtävät. Jouduin käyttämään tekoälyä avuksi koska loppu ajatus ja 
 # Moduuli 3
 Tein tehtävät. Viimeinen olikin todella vaikea ja jouduin turvautumaan tekoälyn apuun mutta taas että se opetti samalla.
 # Moduuli 4
-Loppui aika kesken tehtävien kanssa johtuen isän sairaudesta joten pakotettuna tein Ai:n kanssa. kun tilanne kotipuolessa rauhoittuu, teen preppinä kaikki uusiksi.
+Tehtävien palautus
